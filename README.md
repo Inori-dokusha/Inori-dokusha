@@ -1,4 +1,4 @@
-# Belajar Git
+# Jalur Pembelajaran Saya
 - BELAJAR HTML
 - BELAJAR CSS
 - BELAJAR GIT
