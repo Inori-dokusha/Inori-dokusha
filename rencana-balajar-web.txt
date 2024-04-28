@@ -4,4 +4,8 @@ Belajar Framework
 - Tailwind
 - Laravel 11
 - Boostrap 5
-- Belajar AI
+
+- Belajar Python
+- Belajar C++
+- Belajar C#
+
