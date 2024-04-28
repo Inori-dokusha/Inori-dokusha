@@ -1,1 +1,4 @@
 # my_portfolio
+- BELAJAR HTML
+- BELAJAR CSS
+- BELAJAR GIT
