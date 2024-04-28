@@ -1,4 +1,4 @@
-# my_portfolio
+# Belajar Git
 - BELAJAR HTML
 - BELAJAR CSS
 - BELAJAR GIT
