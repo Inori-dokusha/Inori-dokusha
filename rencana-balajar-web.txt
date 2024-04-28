@@ -8,5 +8,5 @@ Belajar Framework
 Tambah Pembelajaran
 - Belajar AI
 - Belajar Python
-- Belajar 
-
+- Belajar C++
+- Belajar C#
