@@ -17,9 +17,9 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inori-dokusha&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inori-dokusha&layout=compact)
 
 ![Fun GIF](https://media3.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif?cid=6c09b952al13m5ik4x6hv359gye040htb6rzkzlsxl4ymdy4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
