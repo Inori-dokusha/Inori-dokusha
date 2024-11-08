@@ -21,8 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inori-dokusha&layout=compact)
 
-![Fun GIF](https://media3.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif?cid=6c09b952al13m5ik4x6hv359gye040htb6rzkzlsxl4ymdy4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
-
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-manalu-60172a2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/leonardomanalu30?mibextid=ZbWKwL)
