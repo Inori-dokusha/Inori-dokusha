@@ -1,8 +1,6 @@
 ![](guitar-amp-electric-guitar.gif)
 # Hi there, I'm Leonardomanalu 👋
 #### And Welcome To My GitHub
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 [![Profile Views](https://visitcount.itsvg.in/api?id=InoriDokusha&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## Tech Stack
