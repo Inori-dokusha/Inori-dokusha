@@ -1,15 +1,6 @@
 ![](guitar-amp-electric-guitar.gif)
 # Hi there, I'm Leonardomanalu 👋
-#### And Welcome To My GitHub
-[![Profile Views](https://visitcount.itsvg.in/api?id=InoriDokusha&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-## Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-
+### And Welcome To My GitHub
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inori-dokusha&show_icons=true)
