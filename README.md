@@ -4,6 +4,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm Leonardomanalu</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inori-dokusha&show_icons=true&locale=en&layout=donut&theme=vue-dark" alt="inori-dokusha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inori-dokusha&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="inori-dokusha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inori-dokusha&show_icons=true&locale=en&theme=vue-dark" alt="inori-dokusha" /></p>
