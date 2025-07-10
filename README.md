@@ -3,12 +3,11 @@
   <img src="guitar-amp-electric-guitar.gif">
 </div>
 <h1 align="center">&nbsp;Hi 👋, I'm Leonardomanalu</h1>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inori-dokusha&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="inori-dokusha" />
+</div>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inori-dokusha&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="inori-dokusha" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inori-dokusha&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="inori-dokusha" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Inori-dokusha&theme=vue-dark&hide_border=false" alt="inori-dokusha" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Inori-dokusha&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="inori-dokusha" />
+  <img align="right" src="https://nirzak-streak-stats.vercel.app/?user=Inori-dokusha&theme=vue-dark&hide_border=false" alt="inori-dokusha" /></p>
 </p>
 
