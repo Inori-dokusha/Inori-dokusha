@@ -8,7 +8,6 @@
     <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,nix,npm" />
   </a>
 </div>
-Wakatime Stat's
 
 <!--START_SECTION:waka-->
 
