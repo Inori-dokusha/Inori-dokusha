@@ -1,9 +1,15 @@
-<p align="left">&nbsp;<img src="https://komarev.com/ghpvc/?username=inori-dokusha&label=Profile%20views&color=0e75b6&style=flat" alt="inori-dokusha" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Inori-dokusha" alt="inori-dokusha" />
 <div align="center">
   <img src="guitar-amp-electric-guitar.gif">
 </div>
-<h1 align="center">&nbsp;Hi 👋, I'm Leonardomanalu</h1>
-From: 10 July 2020 - To: 06 August 2022
+<div align="center">
+  <h1>&nbsp;Hi 👋, I'm Leonardomanalu</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,nix,npm" />
+  </a>
+</div>
+Wakatime Stat's
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -15,7 +21,14 @@ Font        0 secs          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inori-dokusha&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="inori-dokusha" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Inori-dokusha&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="inori-dokusha" />
-</div>
+<hr/>
+<table width="950" align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inori-dokusha&hide_progress=false&layout=compact"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Inori-dokusha&show_icons=true&title_color="2f80ed"/>
+    </td>
+  </tr>
+</table>
