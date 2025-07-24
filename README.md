@@ -14,7 +14,7 @@
 <div align="center">
   <h1>&nbsp;Hi 👋, I'm Leonardomanalu</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,nix,npm" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </div>
 
