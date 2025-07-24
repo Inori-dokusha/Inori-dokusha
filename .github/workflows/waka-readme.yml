@@ -18,8 +18,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY  }}
           SHOW_TITLE: true
-          BLOCKS: ░▒▓█
-          CODE_LANG: txt
+          BLOCKS: ->
+          CODE_LANG: js
           TIME_RANGE: all_time
           LANG_COUNT: 7
           SHOW_TIME: true
