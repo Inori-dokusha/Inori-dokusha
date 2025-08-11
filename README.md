@@ -34,5 +34,8 @@ gitignore     45 mins         -------------------------   01.95 %
 
 <!--END_SECTION:waka-->
 <hr/>
+<div align="center">
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inori-dokusha&layout=compact&bg_color=02020a&title_color=FFA62B&hide_border=true&text_color=EEF4ED&icon_color=EEF4ED&border_radius=20"/>
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Inori-dokusha&show_icons=true&rank_icon=rank&hide_title=true&ring_color=FFA62B&bg_color=02020a&hide_border=true&text_color=EEF4ED&icon_color=FFA62B&border_radius=20"/>
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=Inori-dokusha&show_icons=true&rank_icon=rank&hide_title=true&ring_color=FFA62B&bg_color=02020a&hide_border=true&text_color=EEF4ED&icon_color=FFA62B&border_radius=20"/> 
+</div>
+
