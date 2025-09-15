@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```js
-From: 12 March 2025 - To: 12 September 2025
+From: 12 March 2025 - To: 14 September 2025
 
-JavaScript    30 hrs 51 mins  >>>>>>>>>>---------------   39.17 %
-HTML          22 hrs 34 mins  >>>>>>>------------------   28.66 %
-CSS           14 hrs 20 mins  >>>>>--------------------   18.20 %
-SCSS          4 hrs 29 mins   >------------------------   05.71 %
-Markdown      2 hrs 18 mins   >------------------------   02.93 %
-JSON          2 hrs 6 mins    >------------------------   02.68 %
-gitignore     1 hr 19 mins    -------------------------   01.69 %
+JavaScript    33 hrs 8 mins   >>>>>>>>>>---------------   39.60 %
+HTML          23 hrs 11 mins  >>>>>>>------------------   27.71 %
+CSS           15 hrs 53 mins  >>>>>--------------------   18.99 %
+SCSS          4 hrs 29 mins   >------------------------   05.38 %
+Markdown      2 hrs 22 mins   >------------------------   02.85 %
+JSON          2 hrs 13 mins   >------------------------   02.66 %
+gitignore     1 hr 19 mins    -------------------------   01.59 %
 ```
 
 <!--END_SECTION:waka-->
