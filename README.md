@@ -21,10 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```js
-From: 12 March 2025 - To: 05 November 2025
+From: 12 March 2025 - To: 06 November 2025
 
-JavaScript    47 hrs 12 mins  >>>>>>>>>>---------------   41.00 %
-HTML          27 hrs 59 mins  >>>>>>-------------------   24.32 %
+JavaScript    47 hrs 12 mins  >>>>>>>>>>---------------   40.99 %
+HTML          27 hrs 59 mins  >>>>>>-------------------   24.31 %
 CSS           18 hrs 56 mins  >>>>---------------------   16.45 %
 Lua           6 hrs 44 mins   >------------------------   05.85 %
 SCSS          4 hrs 29 mins   >------------------------   03.91 %
