@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```js
-From: 12 March 2025 - To: 21 November 2025
+From: 12 March 2025 - To: 22 November 2025
 
 JavaScript    48 hrs 20 mins  >>>>>>>>>>---------------   41.41 %
 HTML          28 hrs 20 mins  >>>>>>-------------------   24.28 %
